@@ -4,6 +4,8 @@ Bias-Varianz-Trade-off und
 Vorhersagegüte in Ridge- und
 Lasso-logistischer Regression"
 
+R-Version 4.6.1
+
 Benötigte R-Pakete: glmnet https://cran.r-project.org/web/packages/glmnet/index.html
 
 Datensatz heart.xls von https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
