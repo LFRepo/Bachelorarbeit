@@ -1,5 +1,5 @@
 # Bachelorarbeit
-Code für Grafiken und Tabellen der Bachelorarbeit "Einfluss des Parameters λ auf
+Code für Grafiken und Daten der Tabellen der Bachelorarbeit "Einfluss des Parameters λ auf
 Bias-Varianz-Trade-off und
 Vorhersagegüte in Ridge- und
 Lasso-logistischer Regression"
